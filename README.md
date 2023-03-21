@@ -1,4 +1,6 @@
 # Techcare
+<img src="https://user-images.githubusercontent.com/33688135/226718617-313a3721-3051-4679-b7b4-2247a1583b74.png" width=30% alt="Techcare Logo">
+
 A PC repair shop tracking system based off Visual Basic .NET and a MySQL Backend Database. Previously submitted as part of my Advanced Higher Assignment.
 
 This project was completed in **2021** and has had no further updates since then.
